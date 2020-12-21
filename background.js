@@ -1,7 +1,7 @@
 /*
 	Initialize
 */
-Zotero.Debug.init(1);
+Zotero.Debug.init(10);
 Zotero.Repo.init();
 Zotero.Messaging.init();
 Zotero.Connector_Types.init();
